@@ -12,26 +12,10 @@
 		F63D07CD220D693700316B1E /* Empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63D079B220D693700316B1E /* Empty.swift */; };
 		F63D07CE220D693700316B1E /* TimelineVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63D079C220D693700316B1E /* TimelineVC.swift */; };
 		F63D07D2220D693700316B1E /* ScrollingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63D07A2220D693700316B1E /* ScrollingCell.swift */; };
-		F63D07D4220D693700316B1E /* sticker_6.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07A7220D693700316B1E /* sticker_6.png */; };
-		F63D07D5220D693700316B1E /* sticker_4.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07A8220D693700316B1E /* sticker_4.png */; };
-		F63D07D6220D693700316B1E /* sticker_5.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07A9220D693700316B1E /* sticker_5.png */; };
-		F63D07D7220D693700316B1E /* sticker_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07AA220D693700316B1E /* sticker_1.png */; };
-		F63D07D8220D693700316B1E /* sticker_2.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07AB220D693700316B1E /* sticker_2.png */; };
-		F63D07D9220D693700316B1E /* sticker_3.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07AC220D693700316B1E /* sticker_3.png */; };
-		F63D07DA220D693700316B1E /* resize.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07AE220D693700316B1E /* resize.png */; };
-		F63D07DB220D693700316B1E /* write.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07AF220D693700316B1E /* write.png */; };
-		F63D07DC220D693700316B1E /* line.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B0220D693700316B1E /* line.png */; };
-		F63D07DD220D693700316B1E /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B1220D693700316B1E /* close.png */; };
-		F63D07DE220D693700316B1E /* BEBAS.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B3220D693700316B1E /* BEBAS.ttf */; };
-		F63D07DF220D693700316B1E /* Age.otf in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B4220D693700316B1E /* Age.otf */; };
-		F63D07E0220D693700316B1E /* ALBURA.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B5220D693700316B1E /* ALBURA.ttf */; };
-		F63D07E1220D693700316B1E /* BebasNeue.otf in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B6220D693700316B1E /* BebasNeue.otf */; };
-		F63D07E2220D693700316B1E /* Archive.otf in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B7220D693700316B1E /* Archive.otf */; };
 		F63D07E3220D693700316B1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F63D07B8220D693700316B1E /* Assets.xcassets */; };
 		F63D07E7220D693700316B1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F63D07C0220D693700316B1E /* LaunchScreen.storyboard */; };
 		F63D07E8220D693700316B1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F63D07C2220D693700316B1E /* Main.storyboard */; };
 		F63D07E9220D693700316B1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63D07C4220D693700316B1E /* AppDelegate.swift */; };
-		F63D07EB220D693700316B1E /* SwiftLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63D07C7220D693700316B1E /* SwiftLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,26 +24,10 @@
 		F63D079B220D693700316B1E /* Empty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Empty.swift; sourceTree = "<group>"; };
 		F63D079C220D693700316B1E /* TimelineVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineVC.swift; sourceTree = "<group>"; };
 		F63D07A2220D693700316B1E /* ScrollingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollingCell.swift; sourceTree = "<group>"; };
-		F63D07A7220D693700316B1E /* sticker_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sticker_6.png; sourceTree = "<group>"; };
-		F63D07A8220D693700316B1E /* sticker_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sticker_4.png; sourceTree = "<group>"; };
-		F63D07A9220D693700316B1E /* sticker_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sticker_5.png; sourceTree = "<group>"; };
-		F63D07AA220D693700316B1E /* sticker_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sticker_1.png; sourceTree = "<group>"; };
-		F63D07AB220D693700316B1E /* sticker_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sticker_2.png; sourceTree = "<group>"; };
-		F63D07AC220D693700316B1E /* sticker_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sticker_3.png; sourceTree = "<group>"; };
-		F63D07AE220D693700316B1E /* resize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = resize.png; sourceTree = "<group>"; };
-		F63D07AF220D693700316B1E /* write.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = write.png; sourceTree = "<group>"; };
-		F63D07B0220D693700316B1E /* line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line.png; sourceTree = "<group>"; };
-		F63D07B1220D693700316B1E /* close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = close.png; sourceTree = "<group>"; };
-		F63D07B3220D693700316B1E /* BEBAS.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BEBAS.ttf; sourceTree = "<group>"; };
-		F63D07B4220D693700316B1E /* Age.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Age.otf; sourceTree = "<group>"; };
-		F63D07B5220D693700316B1E /* ALBURA.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ALBURA.ttf; sourceTree = "<group>"; };
-		F63D07B6220D693700316B1E /* BebasNeue.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BebasNeue.otf; sourceTree = "<group>"; };
-		F63D07B7220D693700316B1E /* Archive.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Archive.otf; sourceTree = "<group>"; };
 		F63D07B8220D693700316B1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F63D07C1220D693700316B1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F63D07C3220D693700316B1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F63D07C4220D693700316B1E /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F63D07C7220D693700316B1E /* SwiftLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftLoader.swift; sourceTree = "<group>"; };
 		F63D07C8220D693700316B1E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F65E501121CCEE7800D0546A /* ScrollableUILabelDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollableUILabelDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -84,7 +52,6 @@
 				F63D07C0220D693700316B1E /* LaunchScreen.storyboard */,
 				F63D07C2220D693700316B1E /* Main.storyboard */,
 				F63D07C4220D693700316B1E /* AppDelegate.swift */,
-				F63D07C5220D693700316B1E /* Helper */,
 				F63D07C8220D693700316B1E /* Info.plist */,
 			);
 			path = ScrollableUILabelDemo;
@@ -129,63 +96,8 @@
 		F63D07A4220D693700316B1E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				F63D07A5220D693700316B1E /* Images */,
-				F63D07B2220D693700316B1E /* Fonts */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		F63D07A5220D693700316B1E /* Images */ = {
-			isa = PBXGroup;
-			children = (
-				F63D07A6220D693700316B1E /* BG Styles */,
-				F63D07AD220D693700316B1E /* SMStickerImages */,
-			);
-			path = Images;
-			sourceTree = "<group>";
-		};
-		F63D07A6220D693700316B1E /* BG Styles */ = {
-			isa = PBXGroup;
-			children = (
-				F63D07A7220D693700316B1E /* sticker_6.png */,
-				F63D07A8220D693700316B1E /* sticker_4.png */,
-				F63D07A9220D693700316B1E /* sticker_5.png */,
-				F63D07AA220D693700316B1E /* sticker_1.png */,
-				F63D07AB220D693700316B1E /* sticker_2.png */,
-				F63D07AC220D693700316B1E /* sticker_3.png */,
-			);
-			path = "BG Styles";
-			sourceTree = "<group>";
-		};
-		F63D07AD220D693700316B1E /* SMStickerImages */ = {
-			isa = PBXGroup;
-			children = (
-				F63D07AE220D693700316B1E /* resize.png */,
-				F63D07AF220D693700316B1E /* write.png */,
-				F63D07B0220D693700316B1E /* line.png */,
-				F63D07B1220D693700316B1E /* close.png */,
-			);
-			path = SMStickerImages;
-			sourceTree = "<group>";
-		};
-		F63D07B2220D693700316B1E /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				F63D07B3220D693700316B1E /* BEBAS.ttf */,
-				F63D07B4220D693700316B1E /* Age.otf */,
-				F63D07B5220D693700316B1E /* ALBURA.ttf */,
-				F63D07B6220D693700316B1E /* BebasNeue.otf */,
-				F63D07B7220D693700316B1E /* Archive.otf */,
-			);
-			path = Fonts;
-			sourceTree = "<group>";
-		};
-		F63D07C5220D693700316B1E /* Helper */ = {
-			isa = PBXGroup;
-			children = (
-				F63D07C7220D693700316B1E /* SwiftLoader.swift */,
-			);
-			path = Helper;
 			sourceTree = "<group>";
 		};
 		F65E500821CCEE7800D0546A = {
@@ -262,24 +174,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F63D07D5220D693700316B1E /* sticker_4.png in Resources */,
-				F63D07D8220D693700316B1E /* sticker_2.png in Resources */,
-				F63D07E2220D693700316B1E /* Archive.otf in Resources */,
-				F63D07DC220D693700316B1E /* line.png in Resources */,
-				F63D07DF220D693700316B1E /* Age.otf in Resources */,
-				F63D07E1220D693700316B1E /* BebasNeue.otf in Resources */,
-				F63D07D7220D693700316B1E /* sticker_1.png in Resources */,
-				F63D07E0220D693700316B1E /* ALBURA.ttf in Resources */,
-				F63D07DA220D693700316B1E /* resize.png in Resources */,
 				F63D07E7220D693700316B1E /* LaunchScreen.storyboard in Resources */,
-				F63D07D4220D693700316B1E /* sticker_6.png in Resources */,
-				F63D07D6220D693700316B1E /* sticker_5.png in Resources */,
-				F63D07D9220D693700316B1E /* sticker_3.png in Resources */,
-				F63D07DD220D693700316B1E /* close.png in Resources */,
-				F63D07DB220D693700316B1E /* write.png in Resources */,
 				F63D07E3220D693700316B1E /* Assets.xcassets in Resources */,
 				F63D07E8220D693700316B1E /* Main.storyboard in Resources */,
-				F63D07DE220D693700316B1E /* BEBAS.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,7 +187,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F63D07EB220D693700316B1E /* SwiftLoader.swift in Sources */,
 				F63D07CB220D693700316B1E /* ContainerVC.swift in Sources */,
 				F63D07CA220D693700316B1E /* ScrollingLabelVC.swift in Sources */,
 				F63D07E9220D693700316B1E /* AppDelegate.swift in Sources */,
