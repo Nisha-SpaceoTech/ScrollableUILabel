@@ -47,7 +47,6 @@
 			isa = PBXGroup;
 			children = (
 				F63D0795220D693700316B1E /* MVC */,
-				F63D07A4220D693700316B1E /* Resources */,
 				F63D07B8220D693700316B1E /* Assets.xcassets */,
 				F63D07C0220D693700316B1E /* LaunchScreen.storyboard */,
 				F63D07C2220D693700316B1E /* Main.storyboard */,
@@ -61,7 +60,6 @@
 			isa = PBXGroup;
 			children = (
 				F63D0796220D693700316B1E /* Controller */,
-				F63D079D220D693700316B1E /* Model */,
 				F63D079E220D693700316B1E /* View */,
 			);
 			path = MVC;
@@ -78,26 +76,12 @@
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		F63D079D220D693700316B1E /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
 		F63D079E220D693700316B1E /* View */ = {
 			isa = PBXGroup;
 			children = (
 				F63D07A2220D693700316B1E /* ScrollingCell.swift */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		F63D07A4220D693700316B1E /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		F65E500821CCEE7800D0546A = {
@@ -340,7 +324,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = EUJ76RR773;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/ScrollableUILabelDemo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -360,7 +344,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = EUJ76RR773;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/ScrollableUILabelDemo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
